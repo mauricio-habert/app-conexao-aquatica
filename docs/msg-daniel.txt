@@ -1,0 +1,17 @@
+Fala Daniel! Tá no ar o protótipo do app pra você testar.
+
+Pra abrir no celular:
+
+1. Instala o app Expo Go na Play Store (ou App Store)
+2. Abre o Expo Go, toca em "Enter URL manually" e cola esse link:
+exp://avwzmgs-anonymous-8083.exp.direct
+
+Demora uns segundos na primeira vez.
+
+Na tela de login coloca qualquer email e senha. Tem duas visões:
+- Técnico — sua visão, com dashboard, analytics, respostas dos atletas, config de perguntas
+- Atleta — visão do nadador, com treinos, questionários, desempenho
+
+Mexe em tudo, é tudo dado fictício por enquanto. Me diz o que achou, o que falta, o que tá confuso ou o que tiraria.
+
+Se o link não abrir me avisa que ligo o servidor de novo.
